@@ -10,4 +10,5 @@ Here's a screenshot of the running:
 ![image](image.png)
 
 3 Exit
-![image](image.png)
+
+![image](https://user-images.githubusercontent.com/98929413/192687472-a2e84647-5d6e-460d-b1e1-77fa2cfcd681.png)
